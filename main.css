@@ -9,7 +9,8 @@
 	background-color: yellow;
 }
 
-h1{
+h1.main{
 	left: 50%;
 	top: 50vh;
+	position: relative;
 }
