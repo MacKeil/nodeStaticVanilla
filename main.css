@@ -1,0 +1,15 @@
+.main{
+	color:red;
+	font-family: helvetica;
+	background-color: yellow;
+}
+*{
+	margin: 0;
+	padding: 0;
+	background-color: yellow;
+}
+
+h1{
+	left: 50%;
+	top: 50vh;
+}
